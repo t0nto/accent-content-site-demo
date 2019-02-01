@@ -13,7 +13,7 @@ export default class IndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
+              <h1 className="has-text-weight-bold is-size-2">Latest Posts</h1>
             </div>
             {posts
               .map(({ node: post }) => (
@@ -33,13 +33,28 @@ export default class IndexPage extends React.Component {
                     {post.excerpt}
                     <br />
                     <br />
-                    <Link className="button is-small" to={post.fields.slug}>
+                    <Link className="button is-small is-danger" to={post.fields.slug}>
                       Keep Reading →
                     </Link>
                   </p>
                 </div>
               ))}
+              <div class="columns has-background-primary">
+    <div class="column has-text-primary">
+    First column
+    </div>
+    <div class="column">
+    Second column
+    </div>
+    <div class="column">
+    Third column
+    </div>
+    <div class="column">
+    Fourth column
+    </div>
+    </div>
           </div>
+
         </section>
       </Layout>
     )
@@ -62,7 +77,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt(pruneLength: 400)
+          excerpt(pruneLength: 200)
           id
           fields {
             slug
