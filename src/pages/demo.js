@@ -23,7 +23,7 @@ return (
 
 export const query = graphql`
 query DemoPageQuery {
-    allMarkdownRemark(filter: {frontmatter: {path: {eq: "/profile"}}}) {
+    allMarkdownRemark(filter: {frontmatter: {title: {eq: "Paola P Gea"}}}) {
       edges {
         node {
             frontmatter {

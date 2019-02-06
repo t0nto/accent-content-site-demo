@@ -1,19 +1,123 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
+title: Paola P Gea
 path: /about
-title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+
+<img src="/img/Paoprofilepic.png" style="float: left; margin: 0px 15px 15px 0px; max-width:100%; height: auto;"/>
+<div style="padding: 60px">
+
+✉️   **paola.p.gea@gmail.com**
+
+🔗   <https://www.linkedin.com/in/paolapgea>
+
+</div>
+
+<br style="clear:both" />
 
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+##Education
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+**Social Media Manager, Recruiter & Business Communication Teacher**
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+[Talaera](https://talaera.com) | Online | Feb 2018 - Present
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
++ Manage social community on Facebook, LinkedIn, and Twitter
+
++ Conceive and create brand assets (blog articles, posts, posters, etc.)
+
++ Build up the social community and increase audience engagement
+
++ Create events to promote the brand (e.g.conferences, workshops)
+
++ Promote brand amongst potential teachers, interview & recruit them
+
++ Conduct Business English pilot lessons to attract potential adult students​​​​​​​
+
+Freelance Social Media Manager & Writer
+
+English - Spanish | Online | 2013 - Present
+
++ Write SEO-optimized blog articles
+
++ Create, design, write and proofread marketing materials for businesses
+
++ Manage Social Media - audience engagement, brand exposure, events
+
+Brand Management Assistant, Recruiter & Communication Coach
+
+[Institute of American Education](https://iae.edu.vn/) | Ho Chi Minh, Vietnam | 2015-2017
+
++ Organized seminars and workshops to promote brand awareness
+
++ Helped design posters and other marketing material
+
++ Raised brand awareness on Social Media
+
++ Trained teachers & provided communication lessons
+
+##Communication Coach
+
+Countries: USA, Vietnam, Spain, Belgium, Germany | 2010 - present
+
++ Taught Business English communication to adults
+
++ Public Speaking coach
+
++ Proofread IVY League applications and advised applicants
+
++ Prepared for official exams (IELTS, Cambridge, TEFL, etc.)![](https://lh5.googleusercontent.com/yIwvBORrKfmHzgwnctgVPfwEeL63JH7-xBi9muD5yYYSr-JucY1AQ165_aQIvcOhm8yRKneA3pC98vln_zwGZyyTlXVcMxFETuyUturinPYMIQ0210zelBAr608Zbe6Vyd0iK-WU)
+
+##EDUCATION
+
+Digital Marketing Specialization (part of iMBA)  
+
+University of Illinois | Online | 2019 (in progress)
+
+Viral Marketing and How to Craft Contagious Content
+
+University of Pennsylvania | Online | 2019
+
+Social Media Marketing Specialization (6 courses)
+
+Northwestern University | Online | 2018
+
+BA in Psychology
+
+UNED |  Spain | 2017 - Present
+
+BA in Specialized Translation and Interpreting
+
+University of Alicante | Spain | 2015
+
+Linguistics - Learning Foreign Languages Course
+
+Edison College | Florida, USA | 2013
+
+American Language and Culture Course
+
+Edison College | Florida, USA | 2012
+
+Expert user of
+
++ Google Analytics
+
++ Hubspot
+
++ MailChimp
+
++ Wordpress
+
++ Canva
+
++ Photoshop, Prezi, PowerPoint
+
+Languages
+
+English  ♦︎♦︎♦︎♦︎♦︎
+
+Spanish ♦︎♦︎♦︎♦︎♦︎
+
+French  ♦︎♦︎♦︎♦︎
+
+German ♦︎♦︎
