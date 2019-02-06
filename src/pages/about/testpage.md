@@ -1,7 +1,6 @@
 ---
 templateKey: about-page
 title: Paola P Gea
-path: /profile
 ---
 
 <img src="/img/Paoprofilepic.png" style="float: left; margin: 0px 15px 15px 0px; max-width:100%; height: auto;"/>
@@ -16,7 +15,7 @@ path: /profile
 <br style="clear:both" />
 
 
-##Knowledge
+##Education
 
 **Social Media Manager, Recruiter & Business Communication Teacher**
 
