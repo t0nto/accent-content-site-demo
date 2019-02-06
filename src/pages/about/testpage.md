@@ -1,6 +1,5 @@
 ---
-templateKey: 'about-page'
-path: /testpage
+templateKey: about-page
 title: Paola P Gea
 ---
 
@@ -16,7 +15,7 @@ title: Paola P Gea
 <br style="clear:both" />
 
 
-##Experience
+##Knowledge
 
 **Social Media Manager, Recruiter & Business Communication Teacher**
 
