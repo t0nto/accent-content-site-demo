@@ -1,7 +1,7 @@
 ---
-templateKey: 'about-page'
-path: /testpage
 title: Paola P Gea
+templateKey: 'about-page'
+path: /profile
 ---
 
 <img src="/img/Paoprofilepic.png" style="float: left; margin: 0px 15px 15px 0px; max-width:100%; height: auto;"/>
