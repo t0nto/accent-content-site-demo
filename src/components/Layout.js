@@ -35,6 +35,15 @@ const TemplateWrapper = ({ children }) => (
           <meta property="og:title" content={data.site.siteMetadata.title} />
           <meta property="og:url" content="/" />
           <meta property="og:image" content="/img/og-image.jpg" />
+  
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115987852-4"></script>
+          <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-115987852-4');
+          </script>
         </Helmet>
         <Navbar />
         <div>{children}</div>
