@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Another Test Blog Post
+slug: test-blog
 date: 2019-04-30T23:43:46.597Z
 description: This post is to test the Netlify CMS plugin
 tags:
