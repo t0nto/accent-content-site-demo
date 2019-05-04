@@ -7,4 +7,4 @@ description: data
 tags:
   - data story
 ---
-data
+data story
