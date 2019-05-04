@@ -73,9 +73,9 @@ const Navbar = class extends React.Component {
         </a>
         <div className="navbar-item">
         <a
-          className="button is-danger"
+          className="button is-primary"
           href="https://calendly.com/accent-content"
-          target="_blank"
+          target="_blank" rel="noopener noreferrer"
           >
           Free Consultation
         </a>

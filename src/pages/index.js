@@ -3,6 +3,12 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { faStroopwafel } from '@fortawesome/free-solid-svg-icons'
+
+library.add(faStroopwafel)
+
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
@@ -11,6 +17,27 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
 
+      <section class="hero is-fullheight">
+        <div class="hero-body">
+          <div class="container">
+            <h1 class="title">
+              No bullsh*t content marketing for startups
+            </h1>
+            <h2 class="subtitle">
+              You code. We craft content that converts.
+            </h2>
+            <a
+              className="button is-primary is-large"
+              href="https://calendly.com/accent-content"
+              target="_blank" rel="noopener noreferrer"
+              >
+              Free Consultation
+              <FontAwesomeIcon icon="stroopwafel" />
+            </a>
+
+          </div>
+        </div>
+      </section>
         <section className="section">
           <div className="container">
             <div className="content">
@@ -32,19 +59,19 @@ export default class IndexPage extends React.Component {
                   <p>
                     <span> &bull; </span>
                     <small>{post.frontmatter.date}</small>
-                  </p>                
+                  </p>
                   <p>
                     {post.excerpt}
                     <br />
                     <br />
-                    <Link className="button is-small is-danger" to={post.fields.slug}>
+                    <Link className="button is-primary" to={post.fields.slug}>
                       Keep Reading →
                     </Link>
                   </p>
                 </div>
               ))}
               </div>
-     
+
           </div>
 
         </section>
