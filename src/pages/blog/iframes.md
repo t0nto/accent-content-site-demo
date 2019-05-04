@@ -17,8 +17,14 @@ tags:
 
 </iframe>
 
-### Another video
-<iframe style="width: 90%;" height="315"
+### Another videos
+
+<div class="centeriframe">
+<iframe class="centeriframe" style="width: 90%;" height="315"
 src="https://www.youtube.com/embed/EWC3wnEQeRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+<a href="https://calendly.com/accent-content">
+  Free Consultation
 
+</a>
